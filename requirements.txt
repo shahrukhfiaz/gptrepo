@@ -1,0 +1,5 @@
+twilio
+deepgram-sdk
+openai
+livekit
+flask
